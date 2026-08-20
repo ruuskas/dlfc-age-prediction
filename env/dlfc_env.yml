@@ -1,0 +1,21 @@
+name: agepred
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
+  - pandas
+  - scikit-learn
+  - statsmodels
+  - jupyter
+  - joblib
+  - xarray
+  - tensorflow
+  - mne
+  - pip:
+    - git+https://github.com/zubara/mneflow.git
