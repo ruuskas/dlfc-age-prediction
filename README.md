@@ -8,10 +8,6 @@ Zubarev, in prep.).
 Install the required Python packages.
 - ```conda env create -f env/dlfc_env.yml```
 
-To obtain the latest `mneflow` version, navigate to
-https://github.com/zubara/mneflow.git, clone the repository, and install from
-the `dev` branch.
-
 ## Dataset
 This study uses the Cam-CAN dataset (Taylor et al., NeuroImage 2017), which is 
 publicly available upon request from the Cambridge Centre for Ageing and 
