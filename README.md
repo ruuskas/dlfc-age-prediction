@@ -1,8 +1,8 @@
 # Age prediction from functional connectivity using deep learning
 
-This repository contains the code for the paper "Interpretable Decoding of Frequency-Resolved
-Functional Connectivity" (Saarro, Ruuskanen, Caivano, Parkkonen, 
-Zubarev, in prep.).
+This repository contains the code for the manuscript "Interpretable Decoding of Frequency-Resolved
+Functional Connectivity" (Ruuskanen, Saarro, Caivano, Parkkonen, 
+Zubarev, <i>submitted</i>, preprint available: https://doi.org/10.64898/2026.08.20.745932).
 
 ## Prerequisites
 Install the required Python packages.
